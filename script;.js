@@ -41,5 +41,3 @@ function handleClickMobileClose(e) {
   menuMobileOpen.classList.toggle("none");
 }
 menuMobileClose.addEventListener("click", handleClickMobileClose);
-
-// .addEventListener("click", handleClickMobileClose);
