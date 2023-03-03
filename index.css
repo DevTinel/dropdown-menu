@@ -64,7 +64,7 @@ li span {
   justify-content: center;
 }
 .containerItems {
-  height: 800px;
+  height: 100px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -207,7 +207,7 @@ p {
     display: block;
   }
   .conteudo {
-    margin-top: -400px !important;
+    margin-top: 150px !important;
   }
   .btn {
     margin: auto;
