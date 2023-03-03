@@ -197,7 +197,7 @@ p {
     text-align: center;
     margin: auto;
     font-size: 12px;
-    width: 45ch;
+    width: 300px;
   }
   .imgDesktop {
     display: none;
@@ -207,7 +207,7 @@ p {
     display: block;
   }
   .conteudo {
-    margin-top: -500px !important;
+    margin-top: -400px !important;
   }
   .btn {
     margin: auto;
